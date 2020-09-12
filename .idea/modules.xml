@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/javadsalgo.iml" filepath="$PROJECT_DIR$/javadsalgo.iml" />
       <module fileurl="file://$PROJECT_DIR$/mapreduce.iml" filepath="$PROJECT_DIR$/mapreduce.iml" />
     </modules>
   </component>
